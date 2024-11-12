@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sidharth</h1>
-<h3 align="center">An Android ROM tinkerer.</h3>
+<h3 align="center">An Android custom ROM tinkerer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthify&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthify" /> </p>
 
