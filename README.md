@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharthify&label=Profile%20views&color=0e75b6&style=flat" alt="sidharthify" /> </p>
 
-<h3 align="left">Connect with me: 
-wednisee. on Discord</h3>
+<h3 align="left">Connect with me: </h3>
+<p wednisee. on Discord </p>
 <p align="left">
 </p>
 
