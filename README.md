@@ -9,7 +9,7 @@ I'm interested in **low level systems engineering**, **AOSP**, **Linux**, CPU ar
 	addi  s0, sp, 32
 ```
 
-I am currently maintaining **Yet Another AOSP Project** and **CipherOS** for the Google Pixel 7 and 7 Pro. I am the developer of an open-source AQI app for the Jammu & Kashmir region, called **Breathe**.
+I am currently maintaining **Yet Another AOSP Project** for the Google Pixel 7 and 7 Pro and **PixelOS** for the Xiaomi Pad 8. I am the developer of an open-source AQI app for the Jammu & Kashmir region, called **Breathe**.
 
 More about me can be found on my website, that is linked to this GitHub account.
 
