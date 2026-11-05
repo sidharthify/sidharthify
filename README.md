@@ -3,16 +3,17 @@
 I'm interested in **low level systems engineering**, **AOSP**, **Linux**, CPU architecture, RISC-V, scripting, self-hosting and anything related to computers.
 
 ```asm
-	addi  sp, sp, -32
-	sw    ra, 28(sp)
-	sw    s0, 24(sp)
-	addi  s0, sp, 32
+    addi  sp, sp, -32
+    sw    ra, 28(sp)
+    sw    s0, 24(sp)
+    addi  s0, sp, 32
 ```
 
 I am currently maintaining **Yet Another AOSP Project** for the Google Pixel 7 and 7 Pro and **PixelOS** for the Xiaomi Pad 8. I am the developer of an open-source AQI app for the Jammu & Kashmir region, called **Breathe**.
 
 More about me can be found on my website, that is linked to this GitHub account.
 
+<pre>
 ⠀⠀⠀⠀⠀⠀⢀⡞⠹⣦⠰⡞⠙⣆⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢴⠀⠀⣿⠐⡇⠀⢻⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢸⠀⠀⣿⢸⡇⠀⢸⠀⠀⠀⠀⠀⠀
@@ -27,3 +28,5 @@ More about me can be found on my website, that is linked to this GitHub account.
 ⠀⠀⠈⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠊⠁⠀
 ⠀⠀⠀⠘⣇⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣷⠀⠀⠀
 ⠀⠀⠀⠀⢿⣼⠉⠉⠙⠛⠛⠛⠛⠉⢹⣁⠟⠀⠀⠀
+
+</pre>
