@@ -13,7 +13,17 @@ I am currently maintaining **Yet Another AOSP Project** for the Google Pixel 7 a
 
 More about me can be found on my website, that is linked to this GitHub account.
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
-[![](https://img.shields.io/github/followers/sidharthify?label=Follow&style=social)](https://github.com/sidharthify)
-[![](https://img.shields.io/github/stars/sidharthify?style=social)](https://github.com/sidharthify?tab=stars)
+⠀⠀⠀⠀⠀⠀⢀⡞⠹⣦⠰⡞⠙⣆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢴⠀⠀⣿⠐⡇⠀⢻⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢸⠀⠀⣿⢸⡇⠀⢸⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡸⣄⠀⣿⣨⡇⠀⣟⡀⠀⠀⠀⠀⠀
+⠀⠀⢠⡶⠚⠉⢁⡀⠀⠀⠀⠀⠀⡈⠉⠙⠲⣤⡀⠀
+⢀⡶⠋⠀⢀⠔⠉⠀⠀⠀⠀⠀⠀⠈⠑⢄⠀⠈⠻⡄
+⣾⠁⠀⠀⠈⠀⣠⣂⡄⠀⠀⠀⣔⣢⠀⠈⠀⠀⠀⢹
+⡇⠀⠀⢠⣠⣠⡌⠓⠁⠀⡀⠀⠙⠊⡄⢀⣀⠀⠀⢸
+⢷⡀⠀⠈⠁⠁⠀⠀⠈⠓⡓⠂⠀⠀⠉⠈⠁⠀⠀⡼
+⠈⠳⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠁
+⠀⠀⢾⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⢸⠀⠀
+⠀⠀⠈⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡾⠊⠁⠀
+⠀⠀⠀⠘⣇⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣷⠀⠀⠀
+⠀⠀⠀⠀⢿⣼⠉⠉⠙⠛⠛⠛⠛⠉⢹⣁⠟⠀⠀⠀
